@@ -25,7 +25,7 @@
     "remarks": "freefq/free",
     "site": "https://github.com/freefq/free",
     "url": "https://raw.githubusercontent.com/freefq/free/master/v2",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@
     "id": 7,
     "remarks": "oslook/clash-freenode",
     "site": "https://github.com/oslook/clash-freenode",
-    "url": "https://freenode.openrunner.net/uploads/20231210-clash.yaml",
+    "url": "https://freenode.openrunner.net/uploads/20231211-clash.yaml",
     "enabled": true
   },
   {
@@ -144,7 +144,7 @@
     "remarks": "20231122",
     "site": "https://github.com/freenodes",
     "url": "https://raw.githubusercontent.com/freenodes/freenodes/main/clash.yaml",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 25,
@@ -207,7 +207,7 @@
     "remarks": "Pawdroid/Free-servers",
     "site": "https://github.com/Pawdroid/Free-servers",
     "url": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": 39,
@@ -297,7 +297,7 @@
     "id": 57,
     "remarks": "huanongkejizhijia/clashnode",
     "site": "https://github.com/huanongkejizhijia/clashnode",
-    "url": "https://clashnode.com/wp-content/uploads/2023/12/20231210.txt",
+    "url": "https://clashnode.com/wp-content/uploads/2023/12/20231211.txt",
     "enabled": true
   },
   {
